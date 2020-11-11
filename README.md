@@ -2,7 +2,8 @@
 ### Hi there 👋
 
 
-**savindug/Savindug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!, I'm Savindu Gunawardena. I'm a 22 year old Software Engineering undergraduate from Sri Lanka.
+
 
 Here are some ideas to get you started:
 
