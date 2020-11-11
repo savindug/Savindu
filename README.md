@@ -3,7 +3,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-Hi!, I'm Savindu Gunawardena. I'm a 22 year old Software Engineering undergraduate from Sri Lanka.
+Hi!, I'm Savindu Gunawardena. I'm a 22 year old Software Engineering undergraduate from Sri Lanka. Always I would love take risks in my life. Also I would onboard with anything  
 Simply, I'm **Design anything** and **Build everything**.
 
 Here are some ideas to get you started:
