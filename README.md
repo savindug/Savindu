@@ -7,11 +7,11 @@ I'm Savindu Gunawardena 😃. I'm a 22 year old Software Engineering undergradua
 Simply, I'm **Design anything** and **Build everything**. Is there anything that I can do for you, Its my pleasure to contribute you.
 
 # 🔭 I’m Intrest on ...
-    - DevOps
-    - Cloud Computing
-    - Javascript
-    - IOT
-    - Robotics
+- DevOps
+- Cloud Computing
+- Javascript
+- IOT
+- Robotics
     
 # 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
