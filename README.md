@@ -23,6 +23,7 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 - IOT
 - Robotics
     
+    
 # 💻 I’m currently working on ...
 
 
@@ -41,7 +42,8 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+
+## &#x1f4c8; GitHub Stats ...
 
 <a href="https://github.com/savindug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindug&langs_count=8&layout=compact&theme=radical" />
@@ -57,7 +59,8 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Java-Plugin-System&theme=tokyonight" />
 </a>  
 
-# 📫 Follow me: ...
+
+# 📫 Follow me ...
 👉 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
