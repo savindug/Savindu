@@ -44,7 +44,7 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/savindug">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindug&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindug&langs_count=8&layout=compact&theme=radical" />
 </a>
 <a href="https://github.com/savindug">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=savindug&count_private=true&show_icons=true&theme=vue-dark" alt="Savindu's GitHub Stats" />
