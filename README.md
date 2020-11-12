@@ -42,7 +42,7 @@ Is there anything that I can do for you, Its my pleasure to contribute you✌.
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 
-## &#x1f4c8; GitHub Stats ...
+# &#x1f4c8; GitHub Stats ...
 
 <a href="https://github.com/savindug">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=savindug&langs_count=8&layout=compact&theme=radical" />
