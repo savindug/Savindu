@@ -10,13 +10,13 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 
 # 🔭 I’m Intrest on ...
 
-**Leisure**
+👉 **Leisure**
 - Music🎧
 - Basketball🏀
 - Photography📷
 - Dreaming
 
-**Technology**
+👉 **Technology**
 - DevOps
 - Cloud Computing
 - Javascript
@@ -36,7 +36,7 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 </a>
 
 # 📫 Follow me: ...
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+👉 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
