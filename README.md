@@ -10,19 +10,16 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 
 # 🔭 I’m Intrest on ...
 
-👉 **Leisure**
-- Music🎧
-- Basketball🏀
-- Photography📷
-- Dreaming
+👉 **Leisure**                                      👉 **Technology**
+- Music🎧                                          - DevOps
+- Basketball🏀                                     - Cloud Computing
+- Photography📷                                    - Javascript
+- Dreaming                                          - IOT
+                                                    - Robotics
 
-👉 **Technology**
-- DevOps
-- Cloud Computing
-- Javascript
-- IOT
-- Robotics
-    
+
+
+
     
 # 💻 I’m currently working on ...
 
