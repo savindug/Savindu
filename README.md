@@ -53,8 +53,8 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 <a href="https://github.com/savindug/AMS_Service">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=AMS_Service&theme=dark" />
 </a>
-<a href="https://github.com/savindug/Spring-boot_POS-Service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Spring-boot_POS-Service&theme=tokyonight" />
+<a href="https://github.com/savindug/Java-Plugin-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Java-Plugin-System&theme=tokyonight" />
 </a>  
 
 # 📫 Follow me: ...
