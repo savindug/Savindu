@@ -23,7 +23,7 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 - IOT
 - Robotics
     
-# 🔭 I’m currently working on ...
+# 💻 I’m currently working on ...
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savindug&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/savindug)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindug&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -35,13 +35,13 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Spring-boot_POS-Service&theme=tokyonight" />
 </a>
 
-# 📫 How to reach me: ...
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+# 📫 Follow me: ...
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://github.com/savindug/Savindug/blob/main/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
