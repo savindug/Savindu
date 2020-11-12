@@ -1,6 +1,6 @@
-[![Header](https://github.com/savindug/Savindug/blob/main/layers.png "Header")](https://some-url.dev/)
+[![Header]( "Header")](https://some-url.dev/)
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://github.com/savindug/Savindug/blob/main/wave.gif" width="30px">
 
 
 I'm Savindu Gunawardena 😃. I'm a 22 year old Software Engineering undergraduate from Sri Lanka. Always I love take risks in my life. Also I would onboard with anything  
