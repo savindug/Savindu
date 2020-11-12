@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+[![Header](https://github.com/savindug/Savindug/blob/main/layers.png "Header")](https://some-url.dev/)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -7,6 +7,14 @@ I'm Savindu Gunawardena 😃. I'm a 22 year old Software Engineering undergradua
 Simply, I'm **Design anything** and **Build everything**. Is there anything that I can do for you, Its my pleasure to contribute you.
 
 # 🔭 I’m Intrest on ...
+
+**Leisure**
+- Music🎧
+- Basketball🏀
+- Photography📷
+- Dreaming
+
+**Technology**
 - DevOps
 - Cloud Computing
 - Javascript
