@@ -24,8 +24,18 @@ Is there anything that I can do for you, Its my pleasure to contribute you.
 - Robotics
     
 # 🔭 I’m currently working on ...
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savindug&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/savindug)
-<!--
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=savindug&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/savindug)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savindug&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=AMS_Service&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Spring-boot_POS-Service&theme=tokyonight" />
+</a>
+
+<!--savindug
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
