@@ -4,14 +4,16 @@
 # Hello, folks! <img src="https://github.com/savindug/Savindug/blob/main/wave.gif" width="30px">
 
 
-I'm Savindu Gunawardena😃. I'm a 22 year old Software Engineering undergraduate from Sri Lanka. Always I love take risks in my life👌. Also I would onboard with anything💪.  
-Simply, I'm **Design anything** and **Build everything**. 
-Is there anything that I can do for you, Its my pleasure to contribute you✌.
+I'm Savindu Gunawardena😃. I'm a 22 year old Software Engineering undergraduate from Sri Lanka. I am a **DREAMER** who Dream and Execute things for the greater good.
+Always I love being an autodidact and take risks in my life👌. Also I'm on board with anything that make a difference💪.  
+Simply, I'm **Design anything** and **Build everything**.
+Is there anything that I can do for you, I will be pleased to share my knowledge with you✌.
 
 # 🔭 I’m Intrest on ...
 
 👉 **Leisure**                                    
-- Music🎧                                          
+- Music🎧  
+- Autodidact
 - Basketball🏀                                     
 - Photography📷                                    
 - Dreaming 
@@ -71,6 +73,14 @@ Is there anything that I can do for you, Its my pleasure to contribute you✌.
 
 [1]: https://twitter.com/savindu_g
 [2]: https://www.linkedin.com/in/savindu-bashitha-456575175/
+
+
+# 📫 Special Thanks ...
+
+Special thnaks to Suvink[3] and MrSupiri[4] for sharing your valubale knowledge with me and also for the inspiration that you two provided.
+
+[3]: https://github.com/Suvink
+[4]: https://github.com/MrSupiri
 
 <!--savindug
 - 🌱 I’m currently learning ...
