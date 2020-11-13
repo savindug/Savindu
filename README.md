@@ -77,7 +77,7 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 
 # 🙏 Special Thanks ...
 
-Special thnaks to [Suvink] and [MrSupiri] for sharing your valubale knowledge with me and also for the inspiration that you two provided.
+Special thnaks to [Suvink] and [MrSupiri] for sharing your valuable knowledge with me and also for the inspiration that you two provided.
 
 [Suvink]: https://github.com/Suvink
 [MrSupiri]: https://github.com/MrSupiri
