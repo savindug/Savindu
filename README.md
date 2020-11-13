@@ -77,10 +77,10 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 
 # 📫 Special Thanks ...
 
-Special thnaks to Suvink[3] and MrSupiri[4] for sharing your valubale knowledge with me and also for the inspiration that you two provided.
+Special thnaks to [Suvink] and [MrSupiri] for sharing your valubale knowledge with me and also for the inspiration that you two provided.
 
-[3]: https://github.com/Suvink
-[4]: https://github.com/MrSupiri
+[Suvink]: https://github.com/Suvink
+[MrSupiri]: https://github.com/MrSupiri
 
 <!--savindug
 - 🌱 I’m currently learning ...
