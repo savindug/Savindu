@@ -4,7 +4,7 @@
 # Hello, folks! <img src="https://github.com/savindug/Savindug/blob/main/wave.gif" width="30px">
 
 
-I'm Savindu Gunawardena😃. I'm a 22 year old Software Engineering undergraduate from Sri Lanka. I am a **DREAMER** who Dream and Execute things for the greater good.
+I'm Savindu Gunawardena😃. I'm an **SE** undergraduate from Sri Lanka. I'm a **DREAMER** who Dream and Execute things for the greater good.
 Always I love being an autodidact and take risks in my life👌. Also I'm on board with anything that make a difference💪.  
 Simply, I'm **Design anything** and **Build everything**.
 Is there anything that I can do for you, I will be pleased to share my knowledge with you✌.
