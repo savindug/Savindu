@@ -11,19 +11,19 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 
 # 🔭 I’m Intrest on ...
 
-👉 **Leisure**                                    
-- Music🎧  
-- Autodidact
-- Basketball🏀                                     
-- Photography📷                                    
-- Dreaming 
-
 👉 **Technology**
 - DevOps
 - Cloud Computing 
 - Javascript
 - IOT
 - Robotics
+
+👉 **Leisure**                                    
+- Music🎧  
+- Autodidact
+- Basketball🏀                                     
+- Photography📷                                    
+- Dreaming 
     
 # 💻 I’m currently working on ...
 
