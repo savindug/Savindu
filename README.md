@@ -29,7 +29,7 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=mac-OS&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
