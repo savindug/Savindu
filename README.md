@@ -29,7 +29,7 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=macos&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macOS&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
@@ -40,7 +40,7 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digital-ocean&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 
 
 # &#x1f4c8; GitHub Stats ...
