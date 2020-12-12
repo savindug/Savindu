@@ -29,19 +29,18 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=macos&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digital-ocean&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 
 
 # &#x1f4c8; GitHub Stats ...
