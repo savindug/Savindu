@@ -73,7 +73,7 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 [1]: https://twitter.com/savindu_g
 [2]: https://www.linkedin.com/in/savindu-bashitha-456575175/
 
-
+<!-- team-->
 # 🙏 Special Thanks ...
 
 Special thnaks to [Suvink] and [MrSupiri] for sharing your valuable knowledge with me and also for the inspiration that you two provided.
