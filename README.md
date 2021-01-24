@@ -74,13 +74,12 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 [2]: https://www.linkedin.com/in/savindu-bashitha-456575175/
 
 <!-- team-->
+<!--
 # 🙏 Special Thanks ...
-
 Special thnaks to [Suvink] and [MrSupiri] for sharing your valuable knowledge with me and also for the inspiration that you two provided.
-
 [Suvink]: https://github.com/Suvink
 [MrSupiri]: https://github.com/MrSupiri
-
+-->
 <!--savindug
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
