@@ -52,11 +52,11 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=savindug&count_private=true&show_icons=true&theme=vue-dark" alt="Savindu's GitHub Stats" />
 </a>
 
-<a href="https://github.com/savindug/AMS_Service">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=AMS_Service&theme=dark" />
+<a href="https://github.com/savindug/Mean-Auth">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Mean-Auth&theme=dark" />
 </a>
-<a href="https://github.com/savindug/Java-Plugin-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Java-Plugin-System&theme=tokyonight" />
+<a href="https://github.com/savindug/flutter_chat_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=flutter_chat_app&theme=tokyonight" />
 </a>  
 
 
