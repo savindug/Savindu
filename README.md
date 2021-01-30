@@ -56,6 +56,9 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Mean-Auth&theme=dark" />
 </a> 
 
+<a href="https://github.com/savindug/flutter_chat_app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=flutter_chat_app&theme=tokyonight" />
+</a> 
 
 # 📫 Follow me ...
 👉 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
