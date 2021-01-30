@@ -54,10 +54,7 @@ Is there anything that I can do for you, I will be pleased to share my knowledge
 
 <a href="https://github.com/savindug/Mean-Auth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=Mean-Auth&theme=dark" />
-</a>
-<a href="https://github.com/savindug/flutter_chat_app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=savindug&repo=flutter_chat_app&theme=tokyonight" />
-</a>  
+</a> 
 
 
 # 📫 Follow me ...
