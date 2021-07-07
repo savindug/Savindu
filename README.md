@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Savindu</h1>
-<h3 align="center">I'm a DREAMER from Sri Lanka who passionate in full stack development</h3>
+<h3 align="center">I'm a DREAMER from Sri Lanka who Passionate and Experienced in Full Stack Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=savindug&label=Profile%20views&color=0e75b6&style=flat" alt="savindug" /> </p>
 
